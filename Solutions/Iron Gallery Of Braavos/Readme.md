@@ -14,7 +14,7 @@ kubectl apply -f iron-gallery.yaml
 kubectl apply -f iron-gallery-svc.yaml
 ```
 
-## Deploy Netowork Policy And Ingress
+## Deploy Network Policy And Ingress
 
 ```bash
 kubectl apply -f network-policy.yaml
